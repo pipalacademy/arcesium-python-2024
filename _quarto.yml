@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Python Foundation Course at Arcesium"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - section: The Course
+        contents:
+          - syllabus.qmd
+          - schedule.qmd
+          - lab.qmd
+
+      - section: Live Notes
+        contents:
+           - session1.ipynb
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
