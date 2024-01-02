@@ -22,7 +22,9 @@ website:
 
       - section: Live Notes
         contents:
-           - session1.ipynb
+          - section: Module 1
+            contents:
+              - 1-1.ipynb
 
 format:
   html:
