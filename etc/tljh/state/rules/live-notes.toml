@@ -1,0 +1,10 @@
+[http.services.livenotes]
+[http.services.livenotes.loadBalancer]
+passHostHeader = true
+[[http.services.livenotes.loadBalancer.servers]]
+url = "http://127.0.0.1:4444"
+
+[http.routers.livenotes]
+service = "livenotes"
+rule = "Host(`notes.arcesium-lab.pipal.in`)"
+entryPoints = [ "https",]

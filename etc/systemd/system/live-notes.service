@@ -11,7 +11,7 @@ After=multi-user.target
 Type=simple
 Restart=always
 WorkingDirectory=/opt/training
-ExecStart=quarto preview --port 8000 --host 0.0.0.0
+ExecStart=quarto preview --port 4444
 
 [Install]
 WantedBy=multi-user.target
