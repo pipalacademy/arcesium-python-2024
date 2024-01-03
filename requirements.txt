@@ -1,1 +1,5 @@
 mkdocs
+pandas
+requests
+xlsxwriter
+typer
