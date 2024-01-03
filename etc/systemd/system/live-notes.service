@@ -1,0 +1,17 @@
+#
+# Systemd service to show live training notes
+#
+# Runs on port 8000 of the node.
+#
+[Unit]
+Description=Training Live Notes
+After=multi-user.target
+
+[Service]
+Type=simple
+Restart=always
+WorkingDirectory=/opt/training
+ExecStart=quarto preview --port 8000 --host 0.0.0.0
+
+[Install]
+WantedBy=multi-user.target
