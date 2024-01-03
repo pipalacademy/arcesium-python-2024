@@ -20,7 +20,9 @@ function setup_livenotes() {
     then
         tljh-config add-item https.letsencrypt.domains $domain
     fi
-    ln -sf /opt/training/etc/tljh/state/rules/live-notes.toml /opt/tljh/state/rules/
+
+    # XXX: using cp as symlinking the file is not working
+    cp /opt/training/etc/tljh/state/rules/live-notes.toml /opt/tljh/state/rules/
     tljh-config reload proxy
     echo "  The live notes will be live at https://$domain/ in a couple of seconds."
 }
