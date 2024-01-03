@@ -1,6 +1,5 @@
 mkdocs
 pandas
 requests
-libxml
 xlsxwriter
 typer
