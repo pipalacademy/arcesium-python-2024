@@ -1,0 +1,3 @@
+[submodule "python-practice-problems"]
+	path = python-practice-problems
+	url = git@github.com:pipalacademy/python-practice-problems
