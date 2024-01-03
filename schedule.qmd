@@ -1,1 +1,35 @@
 # Schedule
+The course is planned in three modules. One module per month
+
+| Month    | Date               | Module   | Session                                             | Time                | Duration (hrs) |
+|----------|--------------------|----------|-----------------------------------------------------|---------------------|----------------|
+| Dec'23   | 1st Dec-10th Jan   | NA       | Online learning on Coursera                         | NA                  | NA             |
+| Jan'24   | 11th Jan           | NA       | Course pre-assessment                               | 10:30 AM - 11:00 AM | 0.5            |
+|          | 16th Jan           | Module 1 | Virtual Classroom Day 1                             | 10:30 AM - 1:30 PM  | 3              |
+|          | 17th Jan           | Module 1 | Virtual Classroom Day 2                             | 10:00 AM - 12:00 PM | 2              |
+|          | 18th Jan           | Module 1 | Virtual Classroom Day 3                             | 10:00 AM - 12:00 PM | 2              |
+|          | 19th Jan           | Module 1 | Virtual Classroom Day 4                             | 10:30 AM - 1:30 PM  | 3              |
+|          | 22nd Jan           | Module 1 | Virtual Classroom Day 5                             | 10:00 AM - 12:00 PM | 2              |
+|          | 23rd - 28th Jan    | Module 1 | Participants start working on the module assignment | Self-paced          | NA             |
+|          | 29th Jan-2nd Feb   | Module1  | Optional Nurturing session for clearing of doubts   | NA                  | NA             |
+| Feb'24   | 6th Feb            | Module 1 | Assignment Due                                      | Self-paced          | NA             |
+|          | 10th Feb           | Module 2 | Pre-assessment                                      | 11:00 AM - 11:30 AM | 0.5            |
+|          | 14th Feb           | Module 2 | Virtual Classroom Day 1                             | 10:30 AM - 1:30 PM  | 3              |
+|          | 15th Feb           | Module 2 | Virtual Classroom Day 2                             | 10:30 AM - 1:00 PM  | 2.5            |
+|          | 16th Feb           | Module 2 | Virtual Classroom Day 3                             | 10:00 AM - 12:30 PM | 2.5            |
+|          | 19th Feb           | Module 2 | Virtual Classroom Day 4                             | 10:00 AM - 12:30 PM | 2.5            |
+|          | 20th Feb           | Module 2 | Virtual Classroom Day 5                             | 10:00 AM - 12:30 PM | 2.5            |
+|          | 17th-25th Feb      | Module 2 | Participants start working on the module assignment | Self-paced          | NA             |
+|          | 26th Feb - 1st Mar | Module 2 | Optional Nurturing session for clearing of doubts   | NA                  | NA             |
+| Mar'24   | 6th Mar            | Module 2 | Assignment Due                                      | Self-paced          | NA             |
+|          | 7th Mar            | Module 3 | Pre-assessment                                      | 11 AM - 11:30 AM    | 0.5            |
+|          | 11th Mar           | Module 3 | Virtual Classroom Day 1                             | 10:30 AM - 1:30 PM  | 3              |
+|          | 12th Mar           | Module 3 | Virtual Classroom Day 2                             | 10:00 AM - 12:00 PM | 2              |
+|          | 13th Mar           | Module 3 | Virtual Classroom Day 3                             | 10:30 AM - 1:00 PM  | 2.5            |
+|          | 14th Mar           | Module 3 | Virtual Classroom Day 4                             | 10:00 AM - 12:00 PM | 2              |
+|          | 15th Mar           | Module 3 | Virtual Classroom Day 5                             | 10:00 AM - 12:00 PM | 2              |
+|          | 16th - 23th Mar    | Module 3 | Participants start working on the module assignment | Self-paced          | NA             |
+|          | 24th - 29th Mar    | Module 3 | Optional Nurturing session for clearing of doubts   | NA                  | NA             |
+| April'24 | 4th April          | Module 3 | Course-end project Due                              | Self-paced          | NA             |
+|          | 4th April          | Module 3 | Course post-assessment                              | 10:30 AM - 11:00 AM | NA             |
+
