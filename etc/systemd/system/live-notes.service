@@ -8,6 +8,8 @@ Description=Training Live Notes
 After=multi-user.target
 
 [Service]
+User=jupyter-vikrant
+Group=jupyter-vikrant
 Type=simple
 Restart=always
 WorkingDirectory=/opt/training
