@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Trainer Guide
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This documention is a guide for the trainers to setup and manage online trainings at Pipal Academy.
 
-## Commands
+## Installation
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+TODO:
+- install quarto
+- install gh
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Working with the training repository
+

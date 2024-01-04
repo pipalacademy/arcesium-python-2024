@@ -10,7 +10,7 @@ The website is built using [Quarto][]. The content is in the `.qmd` and `.ipynb`
 
 ## Docs
 
-The docs for the lab setup and managing the lab are written using mkdocs.
+The docs for the lab setup and managing the lab are written using [mkdocs-material][].
 
-
+[mkdocs-material]: https://squidfunk.github.io/mkdocs-material/
 
