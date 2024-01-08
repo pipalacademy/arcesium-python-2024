@@ -1,9 +1,9 @@
 # Live Notes
 
-The `scripts/setup-node.sh` setups the live notes.
+The `scripts/setup-node.py` setups the live notes.
 
 ```
-$ sudo ./scripts/setup-node.sh
+$ sudo python scripts/setup-node.py
 ```
 
 This setup the live-notes as a systemd service.
