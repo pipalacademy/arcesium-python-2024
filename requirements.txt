@@ -1,3 +1,9 @@
+# requirements for the system setup
+markdown
+PyYAML
+tabulate
+
+# requirements for the training
 mkdocs
 pandas
 requests
