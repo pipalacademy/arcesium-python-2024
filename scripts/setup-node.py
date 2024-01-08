@@ -54,6 +54,11 @@ def setup_livenotes():
     run_cmd("tljh-config reload proxy"
     print(f"  The live notes will be live at https://$domain/ in a couple of seconds.")
 
+def setup_magic_commands():
+    # Setup /etc/skel so that new users will have startup script setup in their home dir
+    # at ~/.ipython/profile_default/startup
+    skel = Path(ROOT) / "etc" / "skel"
+    shutil.copytree(skel, "/etc/skel")
 
 ROOT = Path(__file__).parent.parent
 
@@ -64,3 +69,4 @@ symlink(ROOT, "/opt/training", force=True)
 run_cmd("ls -l /opt/training")
 
 setup_livenotes()
+setup_magic_commands()
