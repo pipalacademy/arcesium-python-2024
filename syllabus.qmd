@@ -45,12 +45,7 @@ Following is outline of course
 
 ### Day 1
  - Iteration patterns
- - reversed
- - enumerate
- - zip
  - list comprehensions
- - Mapping one list to another list
- - Filtering lists on some conditions
 
 ### Day 2
  - Reading text files
@@ -60,17 +55,13 @@ Following is outline of course
 ### Day 3
  - Why classes?
  - How to write classes in python
- - Inheritance
  - Examples on OOPS
  
 ### Day 4
  - Working with Dictionaries
- - Pitfalls related objects referencing
- - Some useful patterns
+ - Some examples of using dictionaries
  
 ### Day 5
- - Working with CSV files
- - Using built in module to read and write CSV files
  - Reading/Writing Excel Files with xlsxwriter
  - Writing in excel , formatting fonts, formulas etc.
  - Excel tables - add_table,
