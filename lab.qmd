@@ -1,1 +1,8 @@
 # Lab
+
+The course will be conducted online. Python environment used
+for online session will be jypyter lab environment.
+Here is online jupyter lab setup for you. Use username and
+password received on email to login.
+
+[https://arcesium-lab.pipal.in/](https://arcesium-lab.pipal.in/)

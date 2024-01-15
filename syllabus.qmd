@@ -1,1 +1,107 @@
 # Syllabus
+
+## Module 1
+
+### Day 1 
+ - Working with python - basic controlling of environment.
+ - Numeric and Text data
+ - Concept of variable, assignment operator
+ - Collections - lists, tuples.
+ - list splicing
+ - Some built ins (sum, min, max)
+
+### Day 2 
+ - More built in functions
+ - Useful methods of strings and lists
+ - Creating custom functions
+ - A function with return and without return
+ 
+### Day 3 
+ - Passing functions as arguments
+ - Functions returning functions
+ - Introduction to Programming constructs
+ - conditions,
+ - loops
+
+### Day 4 
+ - Python modules - some built in modules os, sys
+ - Writing your own modules
+ - Distinguishing modules and scripts
+ 
+### Day 5
+ - Putting it all together
+ - Building command line applications using typer/click
+ - Assignments - introduction
+
+## Module II
+
+### Day 1
+ - Iteration patterns
+ - reversed
+ - enumerate
+ - zip
+ - list comprehensions
+ - Mapping one list to another list
+ - Filtering lists on some conditions
+
+### Day 2
+ - Reading text files
+ - Writing to text files
+ - String formatting
+
+### Day 3
+ - Why classes?
+ - How to write classes in python
+ - Inheritance
+ - Examples on OOPS
+ 
+### Day 4
+ - Working with Dictionaries
+ - Pitfalls related objects referencing
+ - Some useful patterns
+ 
+### Day 5
+ - Working with CSV files
+ - Using built in module to read and write CSV files
+ - Reading/Writing Excel Files with xlsxwriter
+ - Writing in excel , formatting fonts, formulas etc.
+ - Excel tables - add_table,
+ - Collapsed outline and grouping - set_row
+ - Panes - freeze panes
+
+## Module III
+
+### Day1
+ - Operating on tabular data using pandas
+ - Series, Dataframe
+ - Access patterns , selecting
+ - Filtering
+ - Merging, joining, concatenating
+ - groupby
+ - reading/writing datasets using pandas
+
+### Day 2
+ - Using third party libraries (installing, accessing , managing etc.)
+ - Managing virtual environments
+ 
+### Day 3
+ - Fetching data from internet/intranet
+ - With requests module get/post APIs
+ - Operating with json data
+ - json to python data
+ - python to json data
+ - examples
+ 
+### Day 4
+ - Connecting to databases (sqlite3 )
+ - database connectors
+ - connecting and executing queries
+ - Pitfalls in reading/writing to databases.
+ 
+### Day 5
+ - Debugging python programs
+ - Tips for debugging, looking at trace, error messages to find faults
+ - debugging with pdb, sample session
+ - Distributing libraries and packages.
+ - One sample example of creating a python package
+ - standalone script with dependencies library and usable script

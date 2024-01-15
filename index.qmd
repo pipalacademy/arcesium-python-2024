@@ -1,7 +1,7 @@
 ---
-title: "Website"
+title: "Python Foundation Course for Arcesium Jan 24 - Mar 24"
 ---
 
-This is a Quarto website.
+This website is for 
+Online Python Training under FinOp User Empowerment Jan 24 - Mar 24.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
