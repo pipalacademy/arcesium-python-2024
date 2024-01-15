@@ -19,20 +19,26 @@ Following is outline of course
  - A function with return and without return
  
 ### Day 3 
- - Passing functions as arguments
- - Functions returning functions
- - Introduction to Programming constructs
- - conditions,
- - loops
+ - String methods
+ - Method chaining
+ - List methods
+ - Styleguide for writing functions
+ - Namespace and Functions
+ - Scope of Variables
 
 ### Day 4 
- - Python modules - some built in modules os, sys
- - Writing your own modules
- - Distinguishing modules and scripts
+ - Functions Arguments
+ - Passing Functions As Arguments
+ - Functions returning functions
+ - lambda expression
+ - Conditions
+ - For loop
+ - While Loop
  
 ### Day 5
- - Putting it all together
- - Building command line applications using typer/click
+ - Modules - buit int modules
+ - Writing your own modules
+ - Writing Scripts
  - Assignments - introduction
 
 ## Module II
