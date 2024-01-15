@@ -9,34 +9,6 @@ from typing_extensions import Annotated
 admin = "vikrant"
 adminpassword = "vikrant42"
 
-phrase = list("alskdjfhgqpwoeiruty")
-allchars = [chr(i) for i in range(48, 124)]
-
-
-def rotate(data, n):
-    return data[n:] + data[:n]
-
-
-table = {c: rotate(allchars, i) for i, c in enumerate(allchars)}
-
-
-def pairs(text):
-    s = len(phrase)
-    if len(text) <= s:
-        yield from zip(text, phrase)
-    else:
-        yield from zip(text[:s], phrase)
-        yield from pairs(text[s:])
-
-
-def encrypt(text):
-    breaks = [i for i, c in enumerate(text) if c == " "]
-    text = text.replace(" ", "")
-    textc = [table[T][ord(P)-ord(allchars[0])] for T, P in pairs(text)]
-    for b in breaks:
-        textc.insert(b, " ")
-    return "".join(textc)
-
 
 def get_driver():
     driver = webdriver.Firefox()
@@ -85,7 +57,7 @@ def create_user(username, password):
     logout(driver, admin)
 
     login(driver, username, password)
-    time.sleep(3)
+    time.sleep(4)
     logout(driver, username)
     driver.close()
 
