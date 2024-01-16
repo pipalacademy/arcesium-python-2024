@@ -9,11 +9,11 @@ Following is outline of course
  - Numeric and Text data
  - Concept of variable, assignment operator
  - Collections - lists, tuples.
- - list splicing
- - Some built ins (sum, min, max)
+ - Some built in functions
 
 ### Day 2 
  - More built in functions
+ - list slicing
  - Useful methods of strings and lists
  - Creating custom functions
  - A function with return and without return
