@@ -1,0 +1,11 @@
+code: 'sorted(combined_daily_time_series(["AAPL","IBM"]).columns)'
+expected: ['close', 'high', 'low', 'open', 'symbol', 'volume']
+---
+code: 'sorted(combined_daily_time_series(["AAPL","IBM"]).symbol.unique())'
+expected: ['AAPL','IBM']
+---
+code: 'len(get_total_volume(combined_daily_time_series(["AAPL", "IBM"])))'
+expected: 2
+---
+code: 'sorted(get_total_volume(combined_daily_time_series(["AAPL", "IBM"])).index.unique())'
+expected: ['AAPL','IBM']

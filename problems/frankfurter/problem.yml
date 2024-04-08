@@ -1,0 +1,12 @@
+title: Frankfurter Exchange Rates
+blurb: Write a program `frankfurter.py` to list the historical currency rate of a currency against a base currency using Frankfurter Exchange Rate API.
+problem_type: script
+script_name: frankfurter.py
+
+files:
+  code:
+    - frankfurter.py
+  test:
+    - test_frankfurter.py
+  solution:
+    - solution/frankfurter.py

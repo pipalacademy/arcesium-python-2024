@@ -1,0 +1,10 @@
+title: Reverse Digits
+blurb: Write a function `reverse_digits` which will reverse digits of multi digit number and return new formed integer.
+function_name: reverse_digits
+files:
+  code:
+    - reverse_digits.py
+  test:
+    - test_reverse_digits.py
+  solution:
+    - solution/reverse_digits.py

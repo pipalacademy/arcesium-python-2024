@@ -1,0 +1,19 @@
+command: python frankfurter.py
+expected_output:
+  command: python {PROBLEM_ROOT}/solution/frankfurter.py
+---
+command: python frankfurter.py --date 2023-01-31
+expected_output:
+  command: python {PROBLEM_ROOT}/solution/frankfurter.py --date 2023-01-31
+---
+command: python frankfurter.py --base GBP
+expected_output:
+  command: python {PROBLEM_ROOT}/solution/frankfurter.py --base GBP
+---
+command: python frankfurter.py --base GBP --currency USD
+expected_output:
+  command: python {PROBLEM_ROOT}/solution/frankfurter.py --base GBP --currency USD
+---
+command: python frankfurter.py --base GBP --currency USD --date 2023-01-31 --days 20
+expected_output:
+  command: python {PROBLEM_ROOT}/solution/frankfurter.py --base GBP --currency USD --date 2023-01-31 --days 20

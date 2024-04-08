@@ -1,0 +1,11 @@
+name: reverse_digits(4223)
+code: reverse_digits(4223)
+expected: 3224
+---
+name: reverse_digits(1)
+code: reverse_digits(1)
+expected: 1
+---
+name: reverse_digits(123)
+code: reverse_digits(123)
+expected: 321

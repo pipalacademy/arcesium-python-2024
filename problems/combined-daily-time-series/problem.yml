@@ -1,0 +1,11 @@
+title: Combined Daily Time Series
+blurb: Write a function `combined_daily_time_series` that combines stock data from alphavantage for given list of symbols and returns a dataframe.
+problem_type: function
+function_name: combined_daily_time_series
+files:
+  code:
+    - combined_daily_time_series.py
+  test:
+    - test_combined_daily_time_series.py
+  solution:
+    - solution/combined_daily_time_series.py

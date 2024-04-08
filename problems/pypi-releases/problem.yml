@@ -1,0 +1,12 @@
+title: PyPI Releases
+blurb: Write a command line program ``pypi-releases.py` to list all the releases of a given package using the PyPI API.
+problem_type: script
+script_name: pypi_releases.py
+
+files:
+  code:
+    - pypi_releases.py
+  test:
+    - test_pypi_releases.py
+  solution:
+    - solution/pypi_releases.py

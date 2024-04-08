@@ -1,0 +1,17 @@
+title: Find Files
+blurb: Write a python function `findfiles` to find out all filenames which start with a given prefix and have given extension from given folder. 
+function_name: findfiles
+files:
+  code:
+    - findfiles.py
+  test:
+    - test_findfiles.py
+  solution:
+    - solution/findfiles.py
+  data:
+    - files/testdata1.txt
+    - files/testdata2.txt
+    - files/testdata3.txt
+    - files/testdata4.txt
+    - files/testdata5.txt
+    - files/testdata6.txt

@@ -1,0 +1,10 @@
+title: Numeric Value
+blurb: Write a function `numeric_value` that takes a string that represents finance notation of an integer and returns a numeric value i.e. integer  
+function_name: numeric_value
+files:
+  code:
+    - numeric_value.py
+  test:
+    - test_numeric_value.py
+  solution:
+    - solution/numeric_value.py

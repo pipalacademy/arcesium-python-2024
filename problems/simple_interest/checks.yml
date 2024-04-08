@@ -1,0 +1,7 @@
+name: simple_interest(100, 4, 5)
+code: 1.0*simple_interest(100, 4, 5)
+expected: 20.0 
+---
+name: simple_interest(100, 5, 5.0)
+code: simple_interest(100, 5, 5.0)
+expected: 25.0 

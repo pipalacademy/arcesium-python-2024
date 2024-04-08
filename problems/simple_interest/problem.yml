@@ -1,0 +1,10 @@
+title: Simple Interest
+blurb: Write a function `simple_interest` to compute simple interest
+function_name: simple_interest
+files:
+  code:
+    - simple_interest.py
+  test:
+    - test_simple_interest.py
+  solution:
+    - solution/simple_interest.py

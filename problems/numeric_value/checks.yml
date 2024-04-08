@@ -1,0 +1,7 @@
+name: numeric_value("(42)")
+code: numeric_value("(42)")
+expected: -42
+---
+name: numeric_value("42")
+code: numeric_value("42")
+expected: 42
